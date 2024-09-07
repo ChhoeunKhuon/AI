@@ -1,1 +1,2 @@
-# This our code work together with group only.
+# Python + Jupyter
+For this project you need to install jupyter first for new.
